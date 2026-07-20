@@ -1,0 +1,1 @@
+console.log("Welcome to Tech Future Website");
